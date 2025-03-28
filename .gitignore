@@ -1,0 +1,5 @@
+# exclude any user vscode settings
+.vscode
+
+# exlude any binaries produced
+**/*.exe
