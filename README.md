@@ -62,4 +62,6 @@ The following console command will scan the C drive for a depth of 10 (scan no f
 
 ## Code Explanation
 
+**TODO: Complete Section**
+
 This repo only uses the standard library for all containers, algorithms, and filesystem functionality.
